@@ -1,8 +1,3 @@
-package main;
-import linkedlist.Node;
-import linkedlist.LinkedList;
-import linkedlist.GenericLinkedList;
-import linkedlist.GenericNode;
 
 public class TestLinkedList {
 
