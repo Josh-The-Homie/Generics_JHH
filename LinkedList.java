@@ -1,4 +1,4 @@
-package linkedlist;
+
 /**
  * This class models a linked list in which each node has a pointer
  * to the node after it, except the tail which does not have a node after.
