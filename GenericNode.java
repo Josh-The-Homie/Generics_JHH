@@ -1,4 +1,4 @@
-package linkedlist;
+
 
 /**
  * This class models a Node object which contains Strings. Each
